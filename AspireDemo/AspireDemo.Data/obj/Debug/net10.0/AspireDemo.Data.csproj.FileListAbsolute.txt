@@ -1,0 +1,12 @@
+/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.Data/obj/Debug/net10.0/AspireDemo.Data.csproj.AssemblyReference.cache
+/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.Data/obj/Debug/net10.0/AspireDemo.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.Data/obj/Debug/net10.0/AspireDemo.Data.AssemblyInfoInputs.cache
+/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.Data/obj/Debug/net10.0/AspireDemo.Data.AssemblyInfo.cs
+/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.Data/obj/Debug/net10.0/AspireDemo.Data.csproj.CoreCompileInputs.cache
+/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.Data/bin/Debug/net10.0/AspireDemo.Data.deps.json
+/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.Data/bin/Debug/net10.0/AspireDemo.Data.dll
+/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.Data/bin/Debug/net10.0/AspireDemo.Data.pdb
+/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.Data/obj/Debug/net10.0/AspireDemo.Data.dll
+/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.Data/obj/Debug/net10.0/refint/AspireDemo.Data.dll
+/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.Data/obj/Debug/net10.0/AspireDemo.Data.pdb
+/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.Data/obj/Debug/net10.0/ref/AspireDemo.Data.dll
