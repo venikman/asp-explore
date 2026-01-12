@@ -1,7 +1,0 @@
-/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.AppHost/obj/Debug/net9.0/AspireDemo.AppHost.csproj.AssemblyReference.cache
-/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.AppHost/obj/Debug/net9.0/AspireDemo.AppHost.GeneratedMSBuildEditorConfig.editorconfig
-/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.AppHost/obj/Debug/net9.0/AspireDemo.AppHost.AssemblyInfoInputs.cache
-/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.AppHost/obj/Debug/net9.0/AspireDemo.AppHost.AssemblyInfo.cs
-/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.AppHost/obj/Debug/net9.0/AspireDemo.AppHost.csproj.CoreCompileInputs.cache
-/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.AppHost/obj/Debug/net9.0/Aspire/references/.ProjectMetadata.g.cs
-/Users/stas-studio/Developer/asp-explore/AspireDemo/AspireDemo.AppHost/obj/Debug/net9.0/Aspire/references/_AppHost.ProjectMetadata.g.cs
